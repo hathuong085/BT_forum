@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\PostDemo\PostDemo\obj\Debug\netcoreapp3.1\PostDemo.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\PostDemo\PostDemo\obj\Debug\netcoreapp3.1\PostDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PostDemo\PostDemo\obj\Debug\netcoreapp3.1\PostDemo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\PostDemo\PostDemo\obj\Debug\netcoreapp3.1\PostDemo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\PostDemo\PostDemo\bin\Debug\netcoreapp3.1\PostDemo.exe
+C:\Users\Admin\source\repos\PostDemo\PostDemo\bin\Debug\netcoreapp3.1\PostDemo.deps.json
+C:\Users\Admin\source\repos\PostDemo\PostDemo\bin\Debug\netcoreapp3.1\PostDemo.runtimeconfig.json
+C:\Users\Admin\source\repos\PostDemo\PostDemo\bin\Debug\netcoreapp3.1\PostDemo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\PostDemo\PostDemo\bin\Debug\netcoreapp3.1\PostDemo.dll
+C:\Users\Admin\source\repos\PostDemo\PostDemo\bin\Debug\netcoreapp3.1\PostDemo.pdb
+C:\Users\Admin\source\repos\PostDemo\PostDemo\obj\Debug\netcoreapp3.1\PostDemo.dll
+C:\Users\Admin\source\repos\PostDemo\PostDemo\obj\Debug\netcoreapp3.1\PostDemo.pdb
+C:\Users\Admin\source\repos\PostDemo\PostDemo\obj\Debug\netcoreapp3.1\PostDemo.genruntimeconfig.cache
